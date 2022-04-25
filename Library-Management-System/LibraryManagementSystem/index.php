@@ -38,7 +38,6 @@ else
 <body>
 <div id="banner">
 <span class="head">Library Management System</span><br />
-<marquee class="clg" direction="right" behavior="alternate" scrollamount="1">SUBSCRIBE TECH VEGAN</marquee>
 </div>
 <br />
 
