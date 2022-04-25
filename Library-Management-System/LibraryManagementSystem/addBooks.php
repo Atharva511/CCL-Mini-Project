@@ -35,7 +35,6 @@ if($bn!=NULL && $au!=NULL)
 <body>
 <div id="banner">
 <span class="head">Library Management System</span><br />
-<marquee class="clg" direction="right" behavior="alternate" scrollamount="1">TECH VEGAN</marquee>
 </div>
 <br />
 
@@ -64,4 +63,4 @@ if($bn!=NULL && $au!=NULL)
 </div>
 </div>
 </body>
-</html><!--  Designed & Developed by Ashish Vegan | technologyvegan@gmail.com | www.ashishvegan.com | This Source Code is NOT FOR SALE-->
+</html>
